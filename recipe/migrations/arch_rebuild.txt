@@ -351,6 +351,7 @@ lazydocker
 lbaplocal
 lbdevtools
 lbenv
+lbzip2
 lcov
 ldas-tools-al-swig
 ldas-tools-diskcacheapi-swig
