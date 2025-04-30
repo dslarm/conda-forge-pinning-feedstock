@@ -1112,6 +1112,7 @@ shap
 shellcheck
 shrinkwrap
 singularity
+sirius
 sirius-ms
 sixs
 sleef
